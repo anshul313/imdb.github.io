@@ -1,0 +1,59 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.detail{
+    display: flex;
+    width: 100%;
+}
+
+#movieform{
+    
+}
+
+#fav{
+    background-color: yellow;
+    color: black;
+}
+#fav:hover{
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+#result{
+    width: 50%;
+    margin-top: 20px;
+    /* box-shadow: 5px 5px 20px black; */
+}
+#result:hover{
+    box-shadow: 5px 5px 20px black;
+}
+
+#info{
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 50%;
+    /* box-shadow: 5px 5px 20px black; */
+    color:#34495E;
+    padding: 20px;
+}
+#info:hover{
+    box-shadow: 5px 5px 20px black;
+}
+img:hover{
+    
+}
+#add{
+    margin-left: 30%;
+    background-color: lightgray;
+    color: black;
+    margin-top: 5px;
+}
+
+#add:hover{
+    background-color: #34495E;
+    color: white;
+    transition: 1s;
+}
